@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b04f2ee-6002-4ff1-94fb-2b75d6bd0a1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bMTcaOyV3bzC1cdpz8drEbPbSd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikael\OneDrive\Documents\Technion\handasat tochna\hw1\src" />
+      <recent name="C:\Users\Mikael\OneDrive\Documents\Technion\handasat tochna\hw1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikael\OneDrive\Documents\Technion\handasat tochna\hw1" />
+      <recent name="C:\Users\Mikael\OneDrive\Documents\Technion\handasat tochna\hw1\src\csv" />
+      <recent name="C:\Users\Mikael\OneDrive\Documents\Technion\handasat tochna\hw1\data" />
+      <recent name="C:\Users\Mikael\OneDrive\Documents\Technion\handasat tochna\hw1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Library">
+    <configuration name="BirthStatistics" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="part1.BirthStatistics" />
+      <module name="hw1" />
+      <option name="PROGRAM_PARAMETERS" value="data" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part2.Book" />
+      <module name="hw1" />
+      <option name="PROGRAM_PARAMETERS" value="data" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part2.Library" />
+      <module name="hw1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BirthStatistics" />
+      <item itemvalue="Application.Book" />
+      <item itemvalue="Application.Library" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Library" />
+        <item itemvalue="Application.Book" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b04f2ee-6002-4ff1-94fb-2b75d6bd0a1c" name="Default Changelist" comment="" />
+      <created>1588441042932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588441042932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1588441055909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1588441055909" />
+    <state x="117" y="0" width="904" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588763718514">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="117" y="0" width="904" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1588763718514" />
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588441751689">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="124" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1588441751689" />
+    <state x="587" y="290" width="488" height="387" key="#xdebugger.evaluate" timestamp="1588510999261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="587" y="290" width="488" height="387" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1588510999261" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1591692388008">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591692388008" />
+    <state width="1237" height="149" key="GridCell.Tab.0.bottom" timestamp="1588781708173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588781708173" />
+    <state width="1237" height="149" key="GridCell.Tab.0.center" timestamp="1588781708173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588781708173" />
+    <state width="1237" height="149" key="GridCell.Tab.0.left" timestamp="1588781708173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588781708173" />
+    <state width="1237" height="149" key="GridCell.Tab.0.right" timestamp="1588781708173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588781708173" />
+    <state width="1237" height="149" key="GridCell.Tab.1.bottom" timestamp="1588781708173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588781708173" />
+    <state width="1237" height="149" key="GridCell.Tab.1.center" timestamp="1588781708173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588781708173" />
+    <state width="1237" height="149" key="GridCell.Tab.1.left" timestamp="1588781708173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588781708173" />
+    <state width="1237" height="149" key="GridCell.Tab.1.right" timestamp="1588781708173">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="149" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588781708173" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588444596754">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588444596754" />
+    <state x="91" y="0" key="new project wizard" timestamp="1588446622519">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1588446622519" />
+  </component>
+</project>
